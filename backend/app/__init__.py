@@ -20,14 +20,12 @@ def create_app():
     from .routes.auth import auth_bp
     from .routes.public import public_bp
     from .routes.admin import admin_bp
+    from .routes.health import health_bp
 
     app.register_blueprint(auth_bp, url_prefix="/api/auth")
     app.register_blueprint(public_bp, url_prefix="/api/public")
     app.register_blueprint(admin_bp, url_prefix="/api/admin")
-
-    @app.route("/api/health")
-    def health():
-        return {"status": "ok"}
+    app.register_blueprint(health_bp, url_prefix="/api")
 
     @app.route("/uploads/<path:filename>")
     def uploaded_file(filename):
