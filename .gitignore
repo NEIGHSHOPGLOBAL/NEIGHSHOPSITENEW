@@ -8,5 +8,3 @@ backend/instance/*.db-journal
 *.log
 dist/
 .vite/
-Dockerfile.adams
-docker-compose.adams.yml
