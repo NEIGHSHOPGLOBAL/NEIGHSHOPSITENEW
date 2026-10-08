@@ -1,0 +1,508 @@
+. company.json
+{
+  "company_name": "Neighshop Global",
+  "website": "https://neighshopglobal.com/",
+  "industry": [
+    "Software Development",
+    "IT Services",
+    "Digital Marketing",
+    "Product Engineering",
+    "Business Automation"
+  ],
+  "positioning": "End-to-end software engineering and digital growth partner",
+  "market": "India and international",
+  "head_office": "Delhi, India",
+  "phone": "+91 8307802643",
+  "email": "info@neighshopglobal.com",
+  "stats": {
+    "clients_served": "100+",
+    "team_members": "25+",
+    "years_experience": "7+",
+    "projects_delivered": "100+",
+    "post_launch_support": "3-6 months"
+  },
+  "mission": "Make high-quality technology accessible to startups and businesses without excessive software development costs.",
+  "specializations": [
+    "Software Development",
+    "Mobile Applications",
+    "Web Applications",
+    "Business Automation",
+    "Digital Marketing",
+    "Branding",
+    "Product Engineering"
+  ]
+}
+The public homepage confirms these company statistics, positioning, contact information, and mission. 
+N
+Neighshop Global
+
+2. services.json
+[
+  {
+    "id": 1,
+    "name": "Custom Website Development",
+    "description": "Professional business, corporate, portfolio, SaaS websites and web applications.",
+    "features": [
+      "Responsive",
+      "Admin Panel",
+      "API Integrations",
+      "SEO-Friendly"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mobile App Development",
+    "description": "Android and iOS applications using modern technologies and scalable architecture.",
+    "features": [
+      "Android",
+      "iOS",
+      "E-Commerce",
+      "Healthcare",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CRM & Custom Software",
+    "description": "Custom CRM, ERP, inventory, HR and business automation systems.",
+    "features": [
+      "Automation",
+      "Productivity",
+      "Reporting",
+      "Role-Based Access",
+      "API Integrations"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Search Engine Optimization",
+    "description": "SEO strategies focused on rankings, organic traffic and visibility.",
+    "features": [
+      "On-Page SEO",
+      "Backlinks",
+      "Technical SEO"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Social Media Marketing",
+    "description": "Social media management and marketing for business growth.",
+    "features": [
+      "Instagram",
+      "Facebook",
+      "LinkedIn",
+      "YouTube"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "E-Commerce Development",
+    "description": "Scalable online stores with payments, inventory and administration.",
+    "features": [
+      "Payments",
+      "Inventory",
+      "Admin Panel"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Graphic Design & Branding",
+    "description": "Brand identity, UI/UX, social creatives and marketing materials.",
+    "features": [
+      "Brand Identity",
+      "UI/UX",
+      "Social Media",
+      "Brochures"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Video Editing & UGC",
+    "description": "Video production and editing for advertisements, social media and YouTube.",
+    "features": [
+      "Ads",
+      "YouTube",
+      "UGC Content"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Landing Page Design",
+    "description": "High-converting landing pages for lead generation and product launches.",
+    "features": [
+      "Lead Generation",
+      "A/B Ready",
+      "Fast Loading"
+    ]
+  }
+]
+These nine services and their associated feature tags are directly represented in the site's public content. 
+N
+Neighshop Global
+
+3. products.json
+[
+  {
+    "name": "Rapido Clone",
+    "category": "Ride-Sharing Platform",
+    "description": "Bike taxi, ride-sharing and cab-booking platform.",
+    "features": [
+      "Android App",
+      "iOS App",
+      "Driver App",
+      "Admin Panel",
+      "Live GPS Tracking",
+      "Payment Integration",
+      "Source Code",
+      "Deployment Support"
+    ]
+  },
+  {
+    "name": "Urban Company Clone",
+    "category": "Service Marketplace",
+    "description": "Marketplace connecting customers with professional service providers.",
+    "features": [
+      "Customer App",
+      "Vendor App",
+      "Admin Dashboard",
+      "Booking Management",
+      "Payment Gateway",
+      "Reviews & Ratings",
+      "Source Code"
+    ]
+  },
+  {
+    "name": "CRM & Custom Software",
+    "category": "Business Software",
+    "description": "Custom CRM, ERP, inventory, HR and business automation software.",
+    "features": [
+      "Operations Automation",
+      "Productivity",
+      "Custom Reporting",
+      "Role-Based Access",
+      "API Integrations",
+      "Scalable Architecture"
+    ]
+  },
+  {
+    "name": "Neighshop Training",
+    "category": "Education & Training",
+    "website": "https://training.neighshopglobal.com/",
+    "subjects": [
+      "Web Development",
+      "App Development",
+      "AI & Automation",
+      "Digital Marketing",
+      "Business Growth",
+      "Startup Development"
+    ]
+  }
+]
+The homepage identifies the first three as core products and links the training offering to the separate training domain. 
+N
+Neighshop Global
+
+4. portfolio.json
+[
+  {
+    "name": "Knyamed",
+    "category": "E-Commerce",
+    "description": "Medical apparel & healthcare e-commerce platform"
+  },
+  {
+    "name": "Sardar Fashions",
+    "category": "E-Commerce",
+    "description": "Fashion retail & online storefront"
+  },
+  {
+    "name": "Iymbulan",
+    "category": "E-Commerce",
+    "description": "Brand-led e-commerce experience"
+  },
+  {
+    "name": "Gymshark",
+    "category": "E-Commerce",
+    "description": "High-performance sportswear commerce"
+  },
+  {
+    "name": "Starfusion",
+    "category": "E-Commerce",
+    "description": "Product catalog & online sales"
+  },
+  {
+    "name": "Coutloot",
+    "category": "E-Commerce",
+    "description": "Resale marketplace for fashion & lifestyle"
+  },
+  {
+    "name": "Coutloot App",
+    "category": "Mobile App",
+    "description": "Android marketplace app"
+  },
+  {
+    "name": "Broomees",
+    "category": "Service Provider",
+    "description": "On-demand home & lifestyle services"
+  },
+  {
+    "name": "Hoora",
+    "category": "Service Provider",
+    "description": "Service booking & provider platform"
+  },
+  {
+    "name": "Knockman",
+    "category": "Service Provider",
+    "description": "Local service provider marketplace"
+  },
+  {
+    "name": "Homiq24",
+    "category": "Service Provider",
+    "description": "Home services on-demand platform"
+  },
+  {
+    "name": "TaskRabbit",
+    "category": "Service Provider",
+    "description": "Task-based service marketplace reference"
+  },
+  {
+    "name": "Apricott Care",
+    "category": "Healthcare",
+    "description": "Care & wellness platform"
+  },
+  {
+    "name": "Kwikmedi",
+    "category": "Healthcare",
+    "description": "Medicine delivery & pharmacy technology"
+  },
+  {
+    "name": "Max Lab",
+    "category": "Healthcare",
+    "description": "Diagnostics & lab services platform"
+  },
+  {
+    "name": "Orbito CRM",
+    "category": "Software / CRM",
+    "description": "Clinic CRM — demo by Neighshop Global"
+  },
+  {
+    "name": "LoadNow",
+    "category": "Logistics",
+    "description": "Freight & logistics operations platform"
+  },
+  {
+    "name": "Red Taxi",
+    "category": "Cab Booking",
+    "description": "Ride booking platform"
+  },
+  {
+    "name": "The Pet Nest",
+    "category": "Pet Care",
+    "description": "Pet care services & booking"
+  },
+  {
+    "name": "Sploot",
+    "category": "Pet Care",
+    "description": "Pet wellness & care platform"
+  },
+  {
+    "name": "GoPuff",
+    "category": "Quick Delivery",
+    "description": "Instant delivery commerce model"
+  },
+  {
+    "name": "Nymph",
+    "category": "Dating App",
+    "description": "Social dating product experience"
+  }
+]
+The site's portfolio currently exposes these projects/references and categorizes them by industry/product type. 
+N
+Neighshop Global
+
+Important: I would store a portfolio_type field in your database before publishing these as "clients." The site labels some entries as references/demos, and publicly visible names alone don't establish a client relationship.
+
+5. team.json
+[
+  {
+    "name": "Aakarshan Mishra",
+    "role": "Founder & CEO",
+    "expertise": [
+      "Full Stack",
+      "AI",
+      "IoT",
+      "Strategy"
+    ]
+  },
+  {
+    "name": "Aryan Mangla",
+    "role": "Chief Technology Officer",
+    "expertise": [
+      "Architecture",
+      "Engineering",
+      "Innovation"
+    ]
+  },
+  {
+    "name": "Lokesh Chopra",
+    "role": "Chief Operating Officer",
+    "expertise": [
+      "Operations",
+      "Projects",
+      "Client Success"
+    ]
+  }
+]
+These leadership records appear in the site's About section. 
+N
+Neighshop Global
+
+6. technology.json
+{
+  "frontend": [
+    "React",
+    "Next.js",
+    "TypeScript"
+  ],
+  "backend": [
+    "Node.js",
+    "Python",
+    "Django"
+  ],
+  "mobile": [
+    "React Native",
+    "Flutter"
+  ],
+  "databases": [
+    "PostgreSQL",
+    "MongoDB",
+    "Firebase"
+  ],
+  "cloud_devops": [
+    "AWS",
+    "Docker"
+  ],
+  "ai": [
+    "AI / LLMs"
+  ],
+  "api": [
+    "REST APIs",
+    "GraphQL"
+  ]
+}
+The homepage explicitly lists these technologies as the company's stack. 
+N
+Neighshop Global
+
+7. industries.json
+[
+  "Healthcare & MedTech",
+  "Fintech & Payments",
+  "EdTech & E-Learning",
+  "Logistics & Supply Chain",
+  "Real Estate & PropTech",
+  "E-Commerce & Retail"
+]
+8. process.json
+[
+  {
+    "step": 1,
+    "name": "Discovery & Consultation"
+  },
+  {
+    "step": 2,
+    "name": "Requirement Analysis"
+  },
+  {
+    "step": 3,
+    "name": "Design & Planning"
+  },
+  {
+    "step": 4,
+    "name": "Development"
+  },
+  {
+    "step": 5,
+    "name": "Testing & QA"
+  },
+  {
+    "step": 6,
+    "name": "Deployment & Support"
+  }
+]
+The site also presents a condensed four-step commercial flow: Discovery Call → Scope & Quote → Design & Build → Launch & Support. 
+N
+Neighshop Global
+
+9. faq.json
+[
+  {
+    "question": "Do you provide source code?",
+    "answer": "Yes. Full source code ownership is available for eligible projects and products."
+  },
+  {
+    "question": "Do you provide hosting?",
+    "answer": "Yes. Hosting setup and deployment assistance are offered on AWS, DigitalOcean or shared hosting."
+  },
+  {
+    "question": "How long does development take?",
+    "answer": "A few weeks for landing pages to several months for complex applications, depending on scope."
+  },
+  {
+    "question": "Do you provide post-launch support?",
+    "answer": "Yes. Post-launch support is generally 3–6 months depending on the project agreement."
+  },
+  {
+    "question": "Can you build fully custom software?",
+    "answer": "Yes. Fully customized software can be built around the client's business requirements and workflows."
+  }
+]
+10. locations.json
+[
+  {
+    "city": "Delhi",
+    "status": "Active"
+  },
+  {
+    "city": "Jaipur",
+    "status": "Maintenance"
+  },
+  {
+    "city": "Bangalore",
+    "status": "Coming Soon"
+  }
+]
+11. Training-site dataset
+The separate training website adds substantially more information:
+
+{
+  "program": "Industry Internship Program",
+  "duration": "45 Days",
+  "mode": "Offline",
+  "location": "Narela, Delhi",
+  "batch_size": "Maximum 10 students",
+  "price": "₹5,499",
+  "eligibility": "Students / Graduates with basic computer knowledge",
+  "curriculum": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Responsive Design",
+    "MongoDB",
+    "Express",
+    "React",
+    "Node.js",
+    "API Development",
+    "AI & Prompt Engineering",
+    "Git & GitHub",
+    "AWS",
+    "cPanel"
+  ],
+  "projects": [
+    "3 Mini Projects",
+    "2 Major Projects",
+    "1+ Real Client Project"
+  ],
+  "training_address": "3rd Floor WeWork, Dayanand Tower, above DN charitable clinic, pkt-3, Sector A9, Narela, Delhi, 110040",
+  "training_phone": "+91 7688877547",
+  "company_phone": "+91 8307802643"
+}
